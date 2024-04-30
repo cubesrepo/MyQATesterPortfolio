@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋, I'm Leonard Cube</h2>
-<h3 align="center">A passionate QA tester from Philippines</h3>
+<h2 align="center">Hi 👋, I'm Leonard Cube
+ <br><br> A passionate QA tester from Philippines</h2>
+
 <h2 align="left">💫 About me:</h2>
 
 <p>
