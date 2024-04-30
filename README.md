@@ -14,7 +14,18 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
   - Gained experience in Jenkins pipeline
   - Conducted manual testing on websites across different browsers including Firefox, Edge, and Chrome.
   - Actively participated in QA sprints, for reports, accomplishments, and plans.
-  - Engaged in exploratory testing to uncover hidden defects and improve the overall user experience of the software products.
+  - Engaged in exploratory testing to uncover hidden defects.
 
-<h3 align="left">💼 Languages and Tools:</h3>
+<h3 align="left">💻 Tools:</h3>
+**- G-Suite (Google Docs, Sheets, etc.)
+- Office Suite (Word, Excel)
+- Selenium
+- PyTest
+- Jenkins
+- Jira
+- PyCharm
+- Postman
+- Selectorshub
+- Git
+- Gitpod - weqe**
 
