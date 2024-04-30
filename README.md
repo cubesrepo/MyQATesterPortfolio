@@ -18,15 +18,15 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
 
 <h3 align="left">💻 Tools:</h3>
 
-- **G-Suite:** Cloud productivity tools.
-- **Microsoft Suite:** Office productivity suite.
-- **Selenium:** Web automation tool.
-- **Pytest:** Python testing framework.
-- **Jenkins:** CI/CD automation server.
-- **JIRA:** Issue tracking tool.
-- **PyCharm:** Python IDE.
-- **Postman:** API testing tool.
-- **Selectorshub:** CSS selector generator.
-- **Git:** Version control system.
-- **Gitpod:** Cloud-based IDE.
+- [**G-Suite**](https://workspace.google.com/): Cloud productivity tools.
+- [**Microsoft Suite**](https://www.microsoft.com/en-us/microsoft-365): Office productivity suite.
+- [**Selenium**](https://www.selenium.dev/): Web automation tool.
+- [**Pytest**](https://docs.pytest.org/en/latest/): Python testing framework.
+- [**Jenkins**](https://www.jenkins.io/): CI/CD automation server.
+- [**JIRA**](https://www.atlassian.com/software/jira): Issue tracking tool.
+- [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE.
+- [**Postman**](https://www.postman.com/): API testing tool.
+- [**Selectorshub**](https://www.selectorshub.com/): CSS selector generator.
+- [**Git**](https://git-scm.com/): Version control system.
+- [**Gitpod**](https://www.gitpod.io/): Cloud-based IDE.
 
