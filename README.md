@@ -43,7 +43,18 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/orangeHRM**](https://github.com/cubesrepo/orangeHRM): HR management for employees
 - [**https://github.com/cubesrepo/openCartAwesomeQA**](https://github.com/cubesrepo/openCartAwesomeQA): gadgets (E-COMEMRCE)
 - [**https://github.com/cubesrepo/demoBlaze**](https://github.com/cubesrepo/demoBlaze): gadgets (E-COMMERCE)
-- [**https://github.com/cubesrepo/automationExercise**](https://github.com/cubesrepo/automationExercise): clothins store (E-COMMERCE)
+- [**https://github.com/cubesrepo/automationExercise**](https://github.com/cubesrepo/automationExercise): clothing store (E-COMMERCE)
+
+<h2 align="left">🧑‍💼 Soft skills:</h2>
+- Persistence and Resilience
+- Communication Skills
+- Critical Thinking
+- Adaptability and Flexibility
+- Interpersonal Skills
+- Creativity and Out-of-the-Box Thinking
+- Curiosity and Continuous Learning
+- Attention to Detail
+
 
 <h2 align="left">🏆 Certificates:</h2>
 
