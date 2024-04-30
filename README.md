@@ -17,7 +17,7 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
   - Engaged in exploratory testing to uncover hidden defects.
 
 <h3 align="left">💻 Tools:</h3>
-**- G-Suite (Google Docs, Sheets, etc.)
+- G-Suite (Google Docs, Sheets, etc.)
 - Office Suite (Word, Excel)
 - Selenium
 - PyTest
@@ -27,5 +27,5 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
 - Postman
 - Selectorshub
 - Git
-- Gitpod - weqe**
+- Gitpod
 
