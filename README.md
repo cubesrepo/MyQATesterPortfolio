@@ -17,6 +17,7 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
   - Engaged in exploratory testing to uncover hidden defects.
 
 <h3 align="left">💻 Tools:</h3>
+
 - **G-Suite:** Cloud productivity tools.
 - **Microsoft Suite:** Office productivity suite.
 - **Selenium:** Web automation tool.
