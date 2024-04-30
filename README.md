@@ -33,9 +33,21 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
 
 <h3 align="left">👨‍💻 Projects:</h3>
 <p>
-I created these projects to automate tasks on various demo websites. I used Pytest framework in combination with Selenium for automation. Additionally, I implemented the Page Object Model (POM) structure to enhance the management and scalability of test scripts. The testing process was integrated with Jenkins pipeline to achieve continuous automation and deployment.
+I created these projects to automate tasks on various demo websites. I used Pytest framework in combination with Selenium for automation. also, I implemented the Page Object Model (POM) structure to enhance the management and scalability of test scripts. The testing process was integrated with Jenkins pipeline for CI/CD.
 </p>
 
+- [**https://github.com/cubesrepo/curaHealthCare**](https://github.com/cubesrepo/curaHealthCare): (Google Docs, Spread sheets)
+- [**Microsoft Suite**](https://www.microsoft.com/en-us/microsoft-365): (Word, Excel)
+- [**Selenium**](https://www.selenium.dev/): Web automation tool.
+- [**LambdaTest**](https://www.lambdatest.com/): Selenium Grid for cross-browser testing.
+- [**Pytest**](https://docs.pytest.org/en/latest/): Python testing framework.
+- [**Jenkins**](https://www.jenkins.io/): CI/CD for automation.
+- [**JIRA**](https://www.atlassian.com/software/jira): Issue tracking tool.
+- [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE.
+- [**Postman**](https://www.postman.com/): API testing tool.
+- [**Selectorshub**](https://www.selectorshub.com/): Browser Extension selector generator.
+- [**Git**](https://git-scm.com/): Version control system.
+- [**Gitpod**](https://www.gitpod.io/): Cloud-based IDE.
 
 
 
