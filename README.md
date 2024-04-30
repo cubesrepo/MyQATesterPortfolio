@@ -49,9 +49,12 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 
 - [**Quality Assurance**](https://drive.google.com/file/d/1C0DV472HAPtnyGv2m1FmbVlzGP980iZC/view?usp=drive_link): Quality Assurance in Open Distance eLearning(ODeL)
 - [**Six Sigma**](https://drive.google.com/file/d/1L18BSwOJcTD926NTYrjFjR_1aZ04S2pr/view?usp=drive_link): Six Sigma white belt
+- [**Software Testing Foundations: Test Techniques**](https://drive.google.com/file/d/1X3pUuUVKa5PgjFzkZEm3GwfQXN8rI-qM/view?usp=drive_link): Linkedin Learning
 - [**Learn Software Testing**](https://drive.google.com/file/d/1SGB6m-lkCKzBNWT5kuAh3GPSzRSn8N1X/view?usp=drive_link): Eduonix Learning Solutions
+- [**Understanding Manual Testing**](https://drive.google.com/file/d/1bYhg1ktrTNfyttig6Spm1z3x07Yn5DRU/view?usp=drive_link): Linkedin Learning
 - [**Software Testing Tutorial**](https://drive.google.com/file/d/1PMsWBP_7QBGZawbqZinpnaplcx8QtNmp/view?usp=drive_link): Great Learning Academy
 - [**Getting Started with Software Testing**](https://drive.google.com/file/d/1qjsEa7g0LGoTB5hzpX0XLyzXY5lVltPW/view?usp=drive_link): Linkedin Learning
 - [**SDLC**](https://drive.google.com/file/d/1iTlCj10uqoHUfo3_jnARdWRuoNVvCb7F/view?usp=drive_link): Linkedin Learning
 - [**Jira Fundamentals Badge**](https://university.atlassian.com/student/award/jeqLYwKNLZswJWWtMEaZkmur): Jira Atlassian
+- [**LambdaTest Software Testing Professional Certificate**](https://drive.google.com/file/d/1qHA1Gnocuv4NP3xTfa8E3Vjj_LoeDlOG/view?usp=drive_link): Linkedin Learning
 
