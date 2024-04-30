@@ -46,6 +46,7 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/automationExercise**](https://github.com/cubesrepo/automationExercise): clothing store (E-COMMERCE)
 
 <h2 align="left">🧑‍💼 Soft skills:</h2>
+
 - Persistence and Resilience
 - Communication Skills
 - Critical Thinking
