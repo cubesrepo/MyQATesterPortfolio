@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6388ad33-f966-442f-8659-7b78cfdb2df1" name="Changes" comment="update readme" />
+    <list default="true" id="6388ad33-f966-442f-8659-7b78cfdb2df1" name="Changes" comment="update readme">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714460035290</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update readme">
+      <option name="closed" value="true" />
+      <created>1714460447185</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714460447185</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update readme">
+      <option name="closed" value="true" />
+      <created>1714460560770</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714460560770</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

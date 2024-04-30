@@ -1,12 +1,12 @@
 <h2 align="center">Hi 👋, I'm Leonard Cube</h2>
 <h3 align="center">A passionate QA tester from Philippines</h3>
-<h3 align="left">💫 About me:</h3>
+<h2 align="left">💫 About me:</h2>
 
 <p>
 Hey there! I'm a tech-savvy individual who loves diving into the world of software testing. From being the go-to tester for our school projects to now, I've found my passion in making sure everything runs smoothly. I just love the thrill of finding bugs and making software better.  I'm always on the lookout for new ways to sharpen my testing skills, whether it's through manual testing or diving into the world of automation. So yeah, you could say I'm a bit of a testing enthusiast, always hungry for more challenges and opportunities to learn. 
 </p>
 
-<h3 align="left">💼 Experiences:</h3>
+<h2 align="left">💼 Experiences:</h2>
 
 - **Quality Assurance Intern, Trading Company (Philippines) (_OJT/Internship_)**
   - Utilized spreadsheets and Google Docs for efficient tracking and management of bug reports.
@@ -16,7 +16,7 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
   - Actively participated in QA sprints, for reports, accomplishments, and plans.
   - Engaged in exploratory testing to uncover hidden defects.
 
-<h3 align="left">💻 Tools:</h3>
+<h2 align="left">💻 Tools:</h2>
 
 - [**G-Suite**](https://workspace.google.com/): (Google Docs, Spread sheets)
 - [**Microsoft Suite**](https://www.microsoft.com/en-us/microsoft-365): (Word, Excel)
@@ -31,7 +31,7 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
 - [**Git**](https://git-scm.com/): Version control system.
 - [**Gitpod**](https://www.gitpod.io/): Cloud-based IDE.
 
-<h3 align="left">👨‍💻 Projects:</h3>
+<h2 align="left">👨‍💻 Projects:</h2>
 <p>
 I created these projects to automate tasks on various demo websites. I used Pytest framework in combination with Selenium for automation. also, I implemented the Page Object Model (POM) structure to enhance the management and scalability of test scripts. The testing process was integrated with Jenkins pipeline for CI/CD.
 </p>
