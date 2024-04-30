@@ -48,9 +48,10 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 <h2 align="left">🏆 Certificates:</h2>
 
 - [**Quality Assurance**](https://drive.google.com/file/d/1C0DV472HAPtnyGv2m1FmbVlzGP980iZC/view?usp=drive_link): Quality Assurance in Open Distance eLearning(ODeL)
-- [**Six Sigma**](https://drive.google.com/file/d/1L18BSwOJcTD926NTYrjFjR_1aZ04S2pr/view?usp=drive_link): Six sigma white belt
+- [**Six Sigma**](https://drive.google.com/file/d/1L18BSwOJcTD926NTYrjFjR_1aZ04S2pr/view?usp=drive_link): Six Sigma white belt
 - [**Learn Software Testing**](https://drive.google.com/file/d/1SGB6m-lkCKzBNWT5kuAh3GPSzRSn8N1X/view?usp=drive_link): Eduonix Learning Solutions
 - [**Software Testing Tutorial**](https://drive.google.com/file/d/1PMsWBP_7QBGZawbqZinpnaplcx8QtNmp/view?usp=drive_link): Great Learning Academy
 - [**Getting Started with Software Testing**](https://drive.google.com/file/d/1qjsEa7g0LGoTB5hzpX0XLyzXY5lVltPW/view?usp=drive_link): Linkedin Learning
 - [**SDLC**](https://drive.google.com/file/d/1iTlCj10uqoHUfo3_jnARdWRuoNVvCb7F/view?usp=drive_link): Linkedin Learning
+- [**Jira Fundamentals Badge**](https://university.atlassian.com/student/award/jeqLYwKNLZswJWWtMEaZkmur): Jira Atlassian
 
