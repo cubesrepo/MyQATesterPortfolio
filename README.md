@@ -17,15 +17,15 @@ Hey there! I'm a tech-savvy individual who loves diving into the world of softwa
   - Engaged in exploratory testing to uncover hidden defects.
 
 <h3 align="left">💻 Tools:</h3>
-- G-Suite (Google Docs, Sheets, etc.)
-- Office Suite (Word, Excel)
-- Selenium
-- PyTest
-- Jenkins
-- Jira
-- PyCharm
-- Postman
-- Selectorshub
-- Git
-- Gitpod
+- **G-Suite:** Cloud productivity tools.
+- **Microsoft Suite:** Office productivity suite.
+- **Selenium:** Web automation tool.
+- **Pytest:** Python testing framework.
+- **Jenkins:** CI/CD automation server.
+- **JIRA:** Issue tracking tool.
+- **PyCharm:** Python IDE.
+- **Postman:** API testing tool.
+- **Selectorshub:** CSS selector generator.
+- **Git:** Version control system.
+- **Gitpod:** Cloud-based IDE.
 
