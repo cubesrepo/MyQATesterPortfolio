@@ -42,6 +42,7 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/browserStack**](https://github.com/cubesrepo/browserStack): mobile phones (E-COMMERCE)
 - [**https://github.com/cubesrepo/orangeHRM**](https://github.com/cubesrepo/orangeHRM): HR management for employees
 - [**https://github.com/cubesrepo/openCartAwesomeQA**](https://github.com/cubesrepo/openCartAwesomeQA): gadgets (E-COMEMRCE)
+- [**https://github.com/cubesrepo/bankingProject**](https://github.com/cubesrepo/bankingProject): bankingProject (BANKING)
 - [**https://github.com/cubesrepo/demoBlaze**](https://github.com/cubesrepo/demoBlaze): gadgets (E-COMMERCE)
 - [**https://github.com/cubesrepo/automationExercise**](https://github.com/cubesrepo/automationExercise): clothing store (E-COMMERCE)
 
