@@ -46,6 +46,16 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/demoBlaze**](https://github.com/cubesrepo/demoBlaze): gadgets (E-COMMERCE)
 - [**https://github.com/cubesrepo/automationExercise**](https://github.com/cubesrepo/automationExercise): clothing store (E-COMMERCE)
 
+<h4>Test cases from my Casptone Project</h4>
+
+<p>
+Below, you'll find the test cases I created while working on our capstone project: a mobile integrated veterinary app.
+</p>
+
+
+- [**SpreadSheet Capstone Test Cases**](https://docs.google.com/spreadsheets/d/1QpjFnKq9yHphBbZH3nAcsD1mHFWrcHx7dKPRp9AY1C0/edit?usp=sharing): It covers features such as login, register, appointment, reminders, orders etc.
+
+
 <h2 align="left">🧑‍💼 Soft skills:</h2>
 
 - Persistence and Resilience
