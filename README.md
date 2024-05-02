@@ -41,10 +41,12 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/curaHealthCare**](https://github.com/cubesrepo/curaHealthCare): online booking/Appointment (HEALTHCARE)
 - [**https://github.com/cubesrepo/browserStack**](https://github.com/cubesrepo/browserStack): mobile phones (E-COMMERCE)
 - [**https://github.com/cubesrepo/orangeHRM**](https://github.com/cubesrepo/orangeHRM): orangeHrm (HRM)
+- [**https://github.com/cubesrepo/reactShoppingCart**](https://github.com/cubesrepo/automationExercise): clothing store (E-COMMERCE)
 - [**https://github.com/cubesrepo/openCartAwesomeQA**](https://github.com/cubesrepo/openCartAwesomeQA): gadgets (E-COMMERCE)
 - [**https://github.com/cubesrepo/bankingProject**](https://github.com/cubesrepo/bankingProject): bankingProject (BANKING)
 - [**https://github.com/cubesrepo/demoBlaze**](https://github.com/cubesrepo/demoBlaze): gadgets (E-COMMERCE)
 - [**https://github.com/cubesrepo/automationExercise**](https://github.com/cubesrepo/automationExercise): clothing store (E-COMMERCE)
+
 
 <h4>Test cases from my Casptone Project</h4>
 
@@ -70,6 +72,8 @@ Below, you'll find the test cases I created while working on our capstone projec
 
 <h2 align="left">🏆 Certificates:</h2>
 
+- [**Quality Assurance**](https://drive.google.com/file/d/1UUwAP-S4DnqEKIYDqPjHOdUvk4xJv2i_/view?usp=drive_link): 500 hours OJT/Internship Certificate
+- [**Selenium Python 101**](https://drive.google.com/file/d/16_MK5aAa5RcK-QcSECPTj0wq93zfioM0/view?usp=drive_link): LambdaTest Selenium Python 101
 - [**Quality Assurance**](https://drive.google.com/file/d/1C0DV472HAPtnyGv2m1FmbVlzGP980iZC/view?usp=drive_link): Quality Assurance in Open Distance eLearning(ODeL)
 - [**Six Sigma**](https://drive.google.com/file/d/1L18BSwOJcTD926NTYrjFjR_1aZ04S2pr/view?usp=drive_link): Six Sigma white belt
 - [**Software Testing Foundations: Test Techniques**](https://drive.google.com/file/d/1X3pUuUVKa5PgjFzkZEm3GwfQXN8rI-qM/view?usp=drive_link): Linkedin Learning
