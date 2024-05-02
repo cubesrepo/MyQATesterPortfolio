@@ -77,6 +77,8 @@ Below, you'll find the test cases I created while working on our capstone projec
 - [**Quality Assurance**](https://drive.google.com/file/d/1C0DV472HAPtnyGv2m1FmbVlzGP980iZC/view?usp=drive_link): Quality Assurance in Open Distance eLearning(ODeL)
 - [**Six Sigma**](https://drive.google.com/file/d/1L18BSwOJcTD926NTYrjFjR_1aZ04S2pr/view?usp=drive_link): Six Sigma white belt
 - [**Software Testing Foundations: Test Techniques**](https://drive.google.com/file/d/1X3pUuUVKa5PgjFzkZEm3GwfQXN8rI-qM/view?usp=drive_link): Linkedin Learning
+- [**SQL for Testers**](https://drive.google.com/file/d/1qcUGZkYe_5QoaB-d5KxqxuRhDfMLmlwE/view?usp=drive_link): Linkedin Learning
+- [**Succeeding in Software Testing**](https://drive.google.com/file/d/1f9zw-pnwyrYthsmlFmH8Y__0QbVTjMCp/view?usp=sharing): Linkedin Learning
 - [**Learn Software Testing**](https://drive.google.com/file/d/1SGB6m-lkCKzBNWT5kuAh3GPSzRSn8N1X/view?usp=drive_link): Eduonix Learning Solutions
 - [**Understanding Manual Testing**](https://drive.google.com/file/d/1bYhg1ktrTNfyttig6Spm1z3x07Yn5DRU/view?usp=drive_link): Linkedin Learning
 - [**Software Testing Tutorial**](https://drive.google.com/file/d/1PMsWBP_7QBGZawbqZinpnaplcx8QtNmp/view?usp=drive_link): Great Learning Academy
