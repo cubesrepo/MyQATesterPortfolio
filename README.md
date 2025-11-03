@@ -1,35 +1,45 @@
 <h2 align="center">Hi 👋, I'm Leonard Cube
- <br><br> A passionate QA tester from Philippines</h2>
+ <br><br> Quality Assurance Engineer</h2>
 
 <h2 align="left">💫 About me:</h2>
 
 <p>
-Hey there! I'm a tech-savvy individual who loves diving into the world of software testing. From being the go-to tester for our school projects to now, I've found my passion in making sure everything runs smoothly. I just love the thrill of finding bugs and making software better.  I'm always on the lookout for new ways to sharpen my testing skills, whether it's through manual testing or diving into the world of automation. So yeah, you could say I'm a bit of a testing enthusiast, always hungry for more challenges and opportunities to learn. 
+Quality Assurance Engineer with close to 2 years of hands-on experience in both manual and automation testing. I focus on ensuring smooth, bug-free releases through detailed testing and strong collaboration with developers.
+
+I work with tools like Selenium, Postman, SQL, Jenkins, and Python to validate performance, APIs, and system stability. Passionate about continuous learning and improving test efficiency across web and mobile platforms.
 </p>
 
 <h2 align="left">💼 Experiences:</h2>
-
-- **Quality Assurance Intern, Trading Company (Philippines) (_OJT/Internship_)**
-  - Utilized spreadsheets and Google Docs for efficient tracking and management of bug reports.
-  - Developed automation scripts using pytest and selenium for trading, cashin, and cash-in approval features, ensuring smooth operations.
-  - Gained experience in Jenkins pipeline
-  - Conducted manual testing on websites across different browsers including Firefox, Edge, and Chrome.
-  - Actively participated in QA sprints, for reports, accomplishments, and plans.
-  - Engaged in exploratory testing to uncover hidden defects.
+- **Quality Assurance Engineer, L1, Stampede Solution - VOLARE (Philippines) (_Full time_)**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  
+- **Quality Assurance Intern, Investa (Philippines) (_OJT/Internship_)**
+  - Executed manual test cases for web and mobile apps.
+  - Conducted exploratory and regression testing.
+  - Reported bugs and worked closely with developers for fixes.
+  - Created and ran automation scripts using Selenium Pytest integrated with Jenkins.
 
 <h2 align="left">💻 Tools:</h2>
-
-- [**G-Suite**](https://workspace.google.com/): (Google Docs, Spread sheets)
 - [**Microsoft Suite**](https://www.microsoft.com/en-us/microsoft-365): (Word, Excel)
+- [**G-Suite**](https://workspace.google.com/): (Google Docs, Spread sheets)
+- [**SQL**](https://www.mysql.com/products/workbench/): SQL for checking backend data
+- [**WinSCP**](https://winscp.net/): SFTP
+- [**Putty**](https://putty.org/): PuTTY to establish a Secure Shell (SSH) connection to remote test
+- [**Postman**](https://www.postman.com/): API testing tool.
 - [**Selenium**](https://www.selenium.dev/): Web automation tool.
-- [**LambdaTest**](https://www.lambdatest.com/): Selenium Grid for cross-browser testing.
 - [**Pytest**](https://docs.pytest.org/en/latest/): Python testing framework.
+- [**Git**](https://git-scm.com/): Version control system.
 - [**Jenkins**](https://www.jenkins.io/): CI/CD for automation.
+- [**Redmine**](https://www.redmine.org/): Issue tracking tool.
 - [**JIRA**](https://www.atlassian.com/software/jira): Issue tracking tool.
 - [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE.
-- [**Postman**](https://www.postman.com/): API testing tool.
+- [**LambdaTest**](https://www.lambdatest.com/): Selenium Grid for cross-browser testing.
 - [**Selectorshub**](https://www.selectorshub.com/): Browser Extension selector generator.
-- [**Git**](https://git-scm.com/): Version control system.
 - [**Gitpod**](https://www.gitpod.io/): Cloud-based IDE.
 
 <h2 align="left">👨‍💻 Projects:</h2>
