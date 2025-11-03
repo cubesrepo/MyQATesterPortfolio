@@ -4,9 +4,7 @@
 <h2 align="left">💫 About me:</h2>
 
 <p>
-Quality Assurance Engineer with close to 2 years of hands-on experience in both manual and automation testing. I focus on ensuring smooth, bug-free releases through detailed testing and strong collaboration with developers.
-
-I work with tools like Selenium, Postman, SQL, Jenkins, and Python to validate performance, APIs, and system stability. Passionate about continuous learning and improving test efficiency across web and mobile platforms.
+I’m a Quality Assurance Engineer with nearly 2 years of experience ensuring software quality through both manual and automation testing. I focus on catching issues early, validating APIs, and maintaining smooth CI/CD pipelines. Skilled with tools like Postman, Selenium, Python, Jenkins, and SQL, I enjoy building efficient test workflows that help teams release with confidence.
 </p>
 
 <h2 align="left">💼 Experiences:</h2>
