@@ -25,22 +25,22 @@ I work with tools like Selenium, Postman, SQL, Jenkins, and Python to validate p
   - Created and ran automation scripts using Selenium Pytest integrated with Jenkins.
 
 <h2 align="left">💻 Tools:</h2>
-- [**Microsoft Suite**](https://www.microsoft.com/en-us/microsoft-365): (Word, Excel)
-- [**G-Suite**](https://workspace.google.com/): (Google Docs, Spread sheets)
-- [**SQL**](https://www.mysql.com/products/workbench/): SQL for checking backend data
-- [**WinSCP**](https://winscp.net/): SFTP
-- [**Putty**](https://putty.org/): PuTTY to establish a Secure Shell (SSH) connection to remote test
-- [**Postman**](https://www.postman.com/): API testing tool.
-- [**Selenium**](https://www.selenium.dev/): Web automation tool.
-- [**Pytest**](https://docs.pytest.org/en/latest/): Python testing framework.
-- [**Git**](https://git-scm.com/): Version control system.
-- [**Jenkins**](https://www.jenkins.io/): CI/CD for automation.
-- [**Redmine**](https://www.redmine.org/): Issue tracking tool.
-- [**JIRA**](https://www.atlassian.com/software/jira): Issue tracking tool.
-- [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE.
-- [**LambdaTest**](https://www.lambdatest.com/): Selenium Grid for cross-browser testing.
-- [**Selectorshub**](https://www.selectorshub.com/): Browser Extension selector generator.
-- [**Gitpod**](https://www.gitpod.io/): Cloud-based IDE.
+  - [**Microsoft Suite**](https://www.microsoft.com/en-us/microsoft-365): (Word, Excel)
+    - [**G-Suite**](https://workspace.google.com/): (Google Docs, Spread sheets)
+    - [**SQL**](https://www.mysql.com/products/workbench/): SQL for checking backend data
+    - [**WinSCP**](https://winscp.net/): SFTP
+    - [**Putty**](https://putty.org/): PuTTY to establish a Secure Shell (SSH) connection to remote test
+    - [**Postman**](https://www.postman.com/): API testing tool.
+    - [**Selenium**](https://www.selenium.dev/): Web automation tool.
+    - [**Pytest**](https://docs.pytest.org/en/latest/): Python testing framework.
+    - [**Git**](https://git-scm.com/): Version control system.
+    - [**Jenkins**](https://www.jenkins.io/): CI/CD for automation.
+    - [**Redmine**](https://www.redmine.org/): Issue tracking tool.
+    - [**JIRA**](https://www.atlassian.com/software/jira): Issue tracking tool.
+    - [**PyCharm**](https://www.jetbrains.com/pycharm/): Python IDE.
+    - [**LambdaTest**](https://www.lambdatest.com/): Selenium Grid for cross-browser testing.
+    - [**Selectorshub**](https://www.selectorshub.com/): Browser Extension selector generator.
+    - [**Gitpod**](https://www.gitpod.io/): Cloud-based IDE.
 
 <h2 align="left">👨‍💻 Projects:</h2>
 <p>
