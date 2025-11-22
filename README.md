@@ -8,6 +8,7 @@ I’m a Quality Assurance Engineer with nearly 2 years of experience ensuring so
 </p>
 
 <h2 align="left">💼 Experiences:</h2>
+
 - **Quality Assurance Engineer, L1, Stampede Solution - VOLARE (Philippines) (_Full time_)**
   - Created clear test cases and test plans covering all key features and requirements. 
   - Led UAT sessions with stakeholders and documented feedback for validated fixes. 
@@ -15,6 +16,7 @@ I’m a Quality Assurance Engineer with nearly 2 years of experience ensuring so
   - Handled end-to-end, regression, integration, and basic performance testing to keep core features stable. 
   - Tested APIs using Postman and automated collections to verify responses and payloads. 
   - Built Katalon Studio scripts to automate critical test flows and cut down manual effort.
+
 - **Quality Assurance Intern, Investa (Philippines) (_OJT/Internship_)**
   - Executed manual test cases for web and mobile apps.
   - Conducted exploratory and regression testing.
