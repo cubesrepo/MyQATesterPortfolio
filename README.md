@@ -30,6 +30,7 @@ I’m a Quality Assurance Engineer with nearly 2 years of experience ensuring so
 - [**WinSCP**](https://winscp.net/): SFTP  
 - [**PuTTY**](https://putty.org/): Establish SSH connection to remote test environments  
 - [**Postman**](https://www.postman.com/): API testing tool  
+- [**Playwright**](https://playwright.dev/): Web automation tool  
 - [**Selenium**](https://www.selenium.dev/): Web automation tool  
 - [**Pytest**](https://docs.pytest.org/en/latest/): Python testing framework  
 - [**Git**](https://git-scm.com/): Version control system  
