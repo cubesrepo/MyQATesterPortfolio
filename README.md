@@ -46,7 +46,7 @@ I’m a Quality Assurance Engineer with nearly 2 years of experience ensuring so
 <p>
 I created these projects to automate tasks on various demo websites. I used Pytest framework in combination with Selenium for automation. also, I implemented the Page Object Model (POM) structure to enhance the management and scalability of test scripts. The testing process was integrated with Jenkins pipeline for CI/CD.
 </p>
-<h4>Automation projects repository for demo websites</h4>
+<h4>Automation projects repository for demo websites using Selenium</h4>
 
 - [**https://github.com/cubesrepo/curaHealthCare**](https://github.com/cubesrepo/curaHealthCare): online booking/Appointment (HEALTHCARE)
 - [**https://github.com/cubesrepo/browserStack**](https://github.com/cubesrepo/browserStack): mobile phones (E-COMMERCE)
@@ -57,14 +57,9 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/bankingProject**](https://github.com/cubesrepo/bankingProject): bankingProject (BANKING)
 - [**https://github.com/cubesrepo/demoBlaze**](https://github.com/cubesrepo/demoBlaze): gadgets (E-COMMERCE)
 
-<h4>Test cases from my Casptone Project</h4>
+<h4>Automation projects repository for demo websites using Playwright</h4>
 
-<p>
-Below, you'll find the test cases I created while working on our capstone project: a mobile integrated veterinary app.
-</p>
-
-
-- [**SpreadSheet Capstone Test Cases**](https://docs.google.com/spreadsheets/d/1QpjFnKq9yHphBbZH3nAcsD1mHFWrcHx7dKPRp9AY1C0/edit?usp=sharing): It covers features such as login, register, appointment, reminders, orders etc.
+- [**https://github.com/cubesrepo/curahealthCare-Playwright**](https://github.com/cubesrepo/curaHealthCare): online booking/Appointment (HEALTHCARE)
 
 
 <h2 align="left">🧑‍💼 Soft skills:</h2>
