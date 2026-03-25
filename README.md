@@ -60,8 +60,8 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 
 <h4>Automation projects repository for demo websites using Playwright</h4>
 
-- [**https://github.com/cubesrepo/curahealthCare-Playwright**](https://github.com/cubesrepo/curaHealthCare): online booking/Appointment (HEALTHCARE)
-
+- [**https://github.com/cubesrepo/curahealthCare-Playwright**](https://github.com/cubesrepo/curahealthCare-Playwright): online booking/Appointment (HEALTHCARE)
+- [**https://github.com/cubesrepo/sauceDemo-Playwright**](https://github.com/cubesrepo/sauceDemo-Playwright): Sauce Demo (E-COMMERCE)
 
 <h2 align="left">🧑‍💼 Soft skills:</h2>
 
