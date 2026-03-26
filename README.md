@@ -62,6 +62,7 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 
 - [**https://github.com/cubesrepo/curahealthCare-Playwright**](https://github.com/cubesrepo/curahealthCare-Playwright): online booking/Appointment (HEALTHCARE)
 - [**https://github.com/cubesrepo/sauceDemo-Playwright**](https://github.com/cubesrepo/sauceDemo-Playwright): Sauce Demo (E-COMMERCE)
+- [**https://github.com/cubesrepo/adactinHotel-Playwright**](https://github.com/cubesrepo/adactinHotel-Playwright): Adactin Hotel (Booking)
 
 <h2 align="left">🧑‍💼 Soft skills:</h2>
 
