@@ -47,6 +47,14 @@ I’m a Quality Assurance Engineer with nearly 2 years of experience ensuring so
 <p>
 I created these projects to automate tasks on various demo websites. I used Pytest framework in combination with Selenium for automation. also, I implemented the Page Object Model (POM) structure to enhance the management and scalability of test scripts. The testing process was integrated with Jenkins pipeline for CI/CD.
 </p>
+<h4>Automation projects repository for demo websites using Playwright</h4>
+
+- [**https://github.com/cubesrepo/curahealthCare-Playwright**](https://github.com/cubesrepo/curahealthCare-Playwright): online booking/Appointment (HEALTHCARE)
+- [**https://github.com/cubesrepo/sauceDemo-Playwright**](https://github.com/cubesrepo/sauceDemo-Playwright): Sauce Demo (E-COMMERCE)
+- [**https://github.com/cubesrepo/adactinHotel-Playwright**](https://github.com/cubesrepo/adactinHotel-Playwright): Adactin Hotel (Booking)
+- [**https://github.com/cubesrepo/blazeDemo-Playwright**](https://github.com/cubesrepo/blazeDemo-Playwright): Blaze Demo (Flight Booking)
+- [**https://github.com/cubesrepo/internetHeroku**](https://github.com/cubesrepo/internetHeroku): The internet heroku (Practice Website)
+
 <h4>Automation projects repository for demo websites using Selenium</h4>
 
 - [**https://github.com/cubesrepo/curaHealthCare**](https://github.com/cubesrepo/curaHealthCare): online booking/Appointment (HEALTHCARE)
@@ -57,14 +65,6 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/openCartAwesomeQA**](https://github.com/cubesrepo/openCartAwesomeQA): gadgets (E-COMMERCE)
 - [**https://github.com/cubesrepo/bankingProject**](https://github.com/cubesrepo/bankingProject): bankingProject (BANKING)
 - [**https://github.com/cubesrepo/demoBlaze**](https://github.com/cubesrepo/demoBlaze): gadgets (E-COMMERCE)
-
-<h4>Automation projects repository for demo websites using Playwright</h4>
-
-- [**https://github.com/cubesrepo/curahealthCare-Playwright**](https://github.com/cubesrepo/curahealthCare-Playwright): online booking/Appointment (HEALTHCARE)
-- [**https://github.com/cubesrepo/sauceDemo-Playwright**](https://github.com/cubesrepo/sauceDemo-Playwright): Sauce Demo (E-COMMERCE)
-- [**https://github.com/cubesrepo/adactinHotel-Playwright**](https://github.com/cubesrepo/adactinHotel-Playwright): Adactin Hotel (Booking)
-- [**https://github.com/cubesrepo/blazeDemo-Playwright**](https://github.com/cubesrepo/blazeDemo-Playwright): Blaze Demo (Flight Booking)
-- [**https://github.com/cubesrepo/internetHeroku**](https://github.com/cubesrepo/internetHeroku): The internet heroku (Practice Website)
 
 
 <h2 align="left">🧑‍💼 Soft skills:</h2>
