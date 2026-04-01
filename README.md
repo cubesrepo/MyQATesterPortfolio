@@ -64,6 +64,7 @@ I created these projects to automate tasks on various demo websites. I used Pyte
 - [**https://github.com/cubesrepo/sauceDemo-Playwright**](https://github.com/cubesrepo/sauceDemo-Playwright): Sauce Demo (E-COMMERCE)
 - [**https://github.com/cubesrepo/adactinHotel-Playwright**](https://github.com/cubesrepo/adactinHotel-Playwright): Adactin Hotel (Booking)
 - [**https://github.com/cubesrepo/blazeDemo-Playwright**](https://github.com/cubesrepo/blazeDemo-Playwright): Blaze Demo (Flight Booking)
+- [**https://github.com/cubesrepo/internetHeroku**](https://github.com/cubesrepo/internetHeroku): The internet heroku (Practice Website)
 
 
 <h2 align="left">🧑‍💼 Soft skills:</h2>
